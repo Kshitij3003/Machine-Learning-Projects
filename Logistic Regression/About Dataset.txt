@@ -1,0 +1,2 @@
+Dataset 1:-
+This is the dataset of the company whose task is to predict which customers will buy newly lanched brand new SUV of a well known automobile company. It has three variables i.e., age, estimated salary and purchased. Where purchase is a discrete variable which shows wether the customer had buy a car from the same automobile company or not. On the basis of this we will prepare the predictive model to help autmobile company to target most interested customer first.
