@@ -1,0 +1,3 @@
+Dataset 1:-
+This dataset contains three variable those are Position, level and salary. It is basically an HR dataset of an startup company but it is just a part of it as we can not display the complete dataset because of the companies donfidentiality condition.
+To find:- Truth behind the salary expectation or previous salary of the candidate based on its position and level in  the current or past organization.

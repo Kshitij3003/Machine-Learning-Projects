@@ -1,0 +1,5 @@
+Dataset 1:-
+It has total 5 features from which 4 are independent feature and one is dependent one. Independent variables are R&D Spend, Administration, Marketing Spend and State whereas dependent feature is how much profit company has made. Dataset consist of total 50 companies records but the name of the company has been confidential.
+In this we have to prepare a model in which on the basis of 4 variables we have to check:-
+1) impact of each variable on the dependent variable.
+2) prediction of profit on the basis of expenditure in R&D, Administration and Marketing with the state in which expenditure has happende.
