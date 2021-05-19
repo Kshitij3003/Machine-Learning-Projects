@@ -1,0 +1,2 @@
+Dataset 1:-
+Dataset is all about customers spending in a particular mall. It has total of 5 features which are Id, Genre, Age, Annual Income,Spending Score. So our task is to identify patterns of their customers. So that they can target those pattenrs and have more spendings.
