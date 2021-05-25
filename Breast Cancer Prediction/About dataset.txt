@@ -1,0 +1,12 @@
+Dataset:-
+This dataset is created by Dr.William who is a physician in Wisconsin. Which contain total of 10 attributes. From which our dependent variable is classified into two classes i.e., benign and melignant. It has total of 699 rows which also contain some missing values too. Which means we have to deal with them too. The dataset is very well known to all the researchers in the area of life science. The independent variables are:-
+1. Sample code number: id number
+2. Clump Thickness: 1 - 10
+3. Uniformity of Cell Size: 1 - 10
+4. Uniformity of Cell Shape: 1 - 10
+5. Marginal Adhesion: 1 - 10
+6. Single Epithelial Cell Size: 1 - 10
+7. Bare Nuclei: 1 - 10
+8. Bland Chromatin: 1 - 10
+9. Normal Nucleoli: 1 - 10
+10. Mitoses: 1 - 10

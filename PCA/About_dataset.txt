@@ -1,0 +1,6 @@
+Dataset 1:-
+It is a wine dataset, which is downloaded from UCI repository. Our dependent variable is customer segement. It has total of 10 independent variables and a dependent variables.
+
+Focus:- 
+1) Owner wants to know the segment of the customers in which they are dealing with and their preferences.
+2) Owner wants to have predictive model so that he can use the model to predict that which customer segementation this new wine belongs.
