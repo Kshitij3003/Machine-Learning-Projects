@@ -1,0 +1,4 @@
+Dataset:-
+It is a dataset of business owner who is planning to increase their sales of a products by providing better association to the customers. And with that he will sale one product free which would be associated with the product customer buys based on generated association rule. Each row has different transaction and their buying behaviour. There are total of 7501 transaction. It is having a week dataset of the store.
+Find:-
+Providing best deals to the owner so that he can create a deal of Buy 1 get 1 free.
